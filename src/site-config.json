@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Nerviani Paving Inc",
+    "phone": "+14154542662",
+    "category": "driveway paving",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Driveway Paving Experts",
+      "heroSubline": "Durable, beautiful driveways built to last. Nerviani Paving Inc. delivers quality craftsmanship and exceptional service across the Bay Area.",
+      "aboutTitle": "Decades of Driveway Excellence",
+      "aboutText": [
+        "Nerviani Paving Inc. started with a single truck and a commitment to quality. My grandfather, a Sicilian immigrant with an eye for detail, laid the foundation for our company's values. We’ve grown, but our core principles remain: hard work, integrity, and a dedication to exceeding expectations.",
+        "Our approach is simple: understand your needs, assess your property, and deliver a paving solution that stands the test of time. We don't cut corners. We use premium materials, proven techniques, and a team of skilled professionals to ensure every project meets our rigorous standards.",
+        "We're proud to be a part of the San Francisco community. We support local charities, partner with neighborhood organizations, and strive to build lasting relationships with our clients. When you choose Nerviani Paving Inc., you're choosing a company that cares about its community."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-grade asphalt and paving stones to ensure long-lasting results."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled team has years of experience in all aspects of driveway paving and repair."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "We provide comprehensive, no-obligation estimates tailored to your specific needs."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're committed to your complete satisfaction. We stand behind our work and ensure you're happy with the results."
+        }
+      ],
+      "ctaHeadline": "Get a Free Driveway Estimate",
+      "ctaSubline": "Transform your property with a beautiful, durable driveway. Contact us today to schedule your consultation."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable and cost-effective asphalt driveways expertly installed.",
+        "description": "Asphalt driveways are a popular choice for San Francisco homeowners due to their durability and cost-effectiveness. Nerviani Paving Inc. specializes in the expert installation of asphalt driveways, ensuring a smooth, even surface that can withstand the Bay Area's fluctuating temperatures and occasional heavy rains. Our process begins with a thorough assessment of your property, including soil conditions and drainage patterns. We then prepare the base with precision, compacting it to provide a solid foundation for the asphalt layer. \n\nWe use only premium-grade asphalt, carefully selected for its strength and longevity. Our experienced pavers ensure a seamless installation, paying close attention to detail to prevent cracks and unevenness. We also offer a range of finishing options, including sealcoating, to protect your driveway from the elements and extend its lifespan. With Nerviani Paving Inc., you can be confident that your asphalt driveway will provide years of reliable service.\n\nWhether you're building a new home or replacing an existing driveway, we'll work with you to create a customized solution that meets your needs and budget. From initial consultation to final inspection, we're committed to providing exceptional service and quality craftsmanship.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Base Installation and Compaction",
+          "Step 3: Asphalt Paving and Grading",
+          "Step 4: Sealcoating and Finishing"
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Enhanced Property Value",
+          "Durable and Long-Lasting",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How long does an asphalt driveway last?",
+            "answer": "With proper maintenance, an asphalt driveway can last 15-20 years. Regular sealcoating and crack repair can significantly extend its lifespan."
+          },
+          {
+            "question": "What is the cost of asphalt driveway paving?",
+            "answer": "The cost depends on the size of the driveway, the thickness of the asphalt, and any site-specific challenges. Contact us for a free, no-obligation estimate."
+          },
+          {
+            "question": "How soon can I drive on my new asphalt driveway?",
+            "answer": "We recommend waiting at least 24-48 hours before driving on your new asphalt driveway to allow it to fully cure and harden."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Stylish and durable concrete driveways for a modern look.",
+        "description": "Concrete driveways offer a sleek, modern aesthetic that complements a variety of architectural styles in San Francisco. Nerviani Paving Inc. specializes in the design and installation of high-quality concrete driveways, providing a durable and visually appealing solution for your home. We begin with a thorough site evaluation, considering factors such as soil type, drainage, and existing landscaping. Our team then prepares the subgrade, ensuring a stable and level base for the concrete pour.\n\nWe use a reinforced concrete mix, designed to withstand heavy loads and resist cracking. Our experienced concrete finishers create a smooth, even surface, paying close attention to detail to ensure a flawless finish. We also offer a range of decorative options, including stamped concrete, colored concrete, and exposed aggregate, allowing you to customize your driveway to match your personal style. Nerviani Paving Inc. is committed to delivering exceptional results that enhance the beauty and value of your property.\n\nFrom the initial design consultation to the final inspection, we work closely with you to ensure your complete satisfaction. We're dedicated to providing superior craftsmanship, using only the highest quality materials and proven techniques. Whether you're looking for a simple, functional driveway or a custom-designed masterpiece, we have the expertise and experience to bring your vision to life.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Excavation and Subgrade Preparation",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Modern Aesthetic",
+          "Long-Lasting Durability",
+          "Customizable Design Options",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does a concrete driveway last?",
+            "answer": "A well-maintained concrete driveway can last 25-30 years or more. Regular sealing and crack repair can help extend its lifespan."
+          },
+          {
+            "question": "What is the cost of concrete driveway paving?",
+            "answer": "The cost depends on the size of the driveway, the thickness of the concrete, and any decorative options. Contact us for a personalized estimate."
+          },
+          {
+            "question": "How long do I need to wait before driving on my new driveway?",
+            "answer": "We recommend waiting at least 7 days before driving on your new concrete driveway to allow it to fully cure and achieve its maximum strength."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair",
+        "name": "Driveway Repair",
+        "shortDescription": "Expert repairs to extend the life of your existing driveway.",
+        "description": "San Francisco's unique climate, with its mild winters and hot summers, can take a toll on driveways. Nerviani Paving Inc. offers comprehensive driveway repair services to address cracks, potholes, and uneven surfaces, extending the life of your existing driveway. We begin with a thorough inspection to identify the root cause of the damage and recommend the most effective repair solution. Our team uses high-quality materials and proven techniques to ensure a durable and long-lasting repair.\n\nFor asphalt driveways, we offer crack filling, pothole patching, and resurfacing. For concrete driveways, we provide crack repair, spalling repair, and joint sealing. We also offer driveway leveling services to address uneven surfaces caused by soil erosion or settling. Nerviani Paving Inc. is committed to providing cost-effective solutions that restore the functionality and appearance of your driveway.\n\nWe understand that driveway repairs can be disruptive, so we strive to complete our work quickly and efficiently, minimizing any inconvenience to you. Our team is experienced in working with a variety of driveway materials and construction methods, ensuring that we can handle any repair challenge. Whether you have a small crack or a large pothole, we have the expertise and equipment to get the job done right.",
+        "process": [
+          "Step 1: Driveway Inspection",
+          "Step 2: Damage Assessment and Repair Plan",
+          "Step 3: Repair Execution",
+          "Step 4: Quality Assurance"
+        ],
+        "benefits": [
+          "Extended Driveway Lifespan",
+          "Improved Safety",
+          "Enhanced Curb Appeal",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs repair?",
+            "answer": "Common signs include cracks, potholes, uneven surfaces, and drainage problems. If you notice any of these issues, contact us for an inspection."
+          },
+          {
+            "question": "How much does driveway repair cost?",
+            "answer": "The cost depends on the extent of the damage and the type of repair needed. We provide free, no-obligation estimates."
+          },
+          {
+            "question": "How long does driveway repair take?",
+            "answer": "The duration depends on the complexity of the repair. Simple repairs can be completed in a few hours, while more extensive repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-sealcoating",
+        "name": "Driveway Sealcoating",
+        "shortDescription": "Protect your asphalt driveway with professional sealcoating services.",
+        "description": "Sealcoating is a crucial maintenance step for asphalt driveways in San Francisco, protecting them from the damaging effects of sunlight, water, and traffic. Nerviani Paving Inc. offers professional sealcoating services that extend the life of your asphalt driveway and enhance its appearance. Our process begins with a thorough cleaning of the driveway surface, removing dirt, debris, and loose gravel. We then apply a high-quality sealcoat, which penetrates the asphalt and creates a protective barrier.\n\nThe sealcoat prevents water from seeping into the asphalt, which can cause cracks and potholes. It also protects the asphalt from the sun's UV rays, which can cause it to dry out and become brittle. Regular sealcoating can significantly extend the lifespan of your asphalt driveway, saving you money on costly repairs or replacements. Nerviani Paving Inc. uses only premium-grade sealcoat materials, ensuring a durable and long-lasting finish.\n\nWe recommend sealcoating your asphalt driveway every 2-3 years to maintain its optimal condition. Our experienced team will complete the work quickly and efficiently, minimizing any disruption to your daily routine. With Nerviani Paving Inc., you can be confident that your asphalt driveway is protected and looking its best.",
+        "process": [
+          "Step 1: Driveway Cleaning",
+          "Step 2: Crack Filling (if necessary)",
+          "Step 3: Sealcoat Application",
+          "Step 4: Drying and Curing"
+        ],
+        "benefits": [
+          "Extended Driveway Lifespan",
+          "Protection from the Elements",
+          "Enhanced Appearance",
+          "Cost-Effective Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I sealcoat my asphalt driveway?",
+            "answer": "We recommend sealcoating every 2-3 years to maintain its optimal condition."
+          },
+          {
+            "question": "What are the benefits of sealcoating?",
+            "answer": "Sealcoating protects your asphalt driveway from water damage, UV rays, and traffic wear, extending its lifespan and enhancing its appearance."
+          },
+          {
+            "question": "How long does it take for sealcoat to dry?",
+            "answer": "It typically takes 24-48 hours for sealcoat to fully dry and cure. We recommend avoiding driving or walking on the driveway during this time."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-resurfacing",
+        "name": "Driveway Resurfacing",
+        "shortDescription": "Renew your worn driveway with cost-effective resurfacing.",
+        "description": "When your driveway shows signs of wear and tear but the underlying structure is still sound, resurfacing is an excellent alternative to complete replacement. Nerviani Paving Inc. offers professional driveway resurfacing services that can restore the appearance and functionality of your driveway at a fraction of the cost of a new installation. Our process involves applying a new layer of asphalt or concrete over the existing surface, creating a smooth, even finish.\n\nWe begin with a thorough inspection of the driveway to assess its condition and determine if resurfacing is the right solution. We then clean the surface, repair any cracks or potholes, and apply a bonding agent to ensure a strong connection between the old and new layers. Our experienced pavers and concrete finishers create a seamless surface that blends seamlessly with your existing landscape. Nerviani Paving Inc. is committed to providing cost-effective solutions that enhance the value and appearance of your property.\n\nDriveway resurfacing is a quick and efficient process that can be completed in a matter of days. It's an ideal solution for driveways that have minor damage but are otherwise structurally sound. With Nerviani Paving Inc., you can be confident that your resurfaced driveway will provide years of reliable service.",
+        "process": [
+          "Step 1: Driveway Inspection and Preparation",
+          "Step 2: Crack and Pothole Repair",
+          "Step 3: Bonding Agent Application",
+          "Step 4: Resurfacing with Asphalt or Concrete"
+        ],
+        "benefits": [
+          "Cost-Effective Alternative to Replacement",
+          "Improved Appearance",
+          "Enhanced Functionality",
+          "Quick and Efficient Process"
+        ],
+        "faq": [
+          {
+            "question": "When is resurfacing a good option?",
+            "answer": "Resurfacing is a good option when your driveway has minor damage, such as cracks and potholes, but the underlying structure is still sound."
+          },
+          {
+            "question": "How much does driveway resurfacing cost?",
+            "answer": "The cost depends on the size of the driveway and the type of resurfacing material used. We provide free, no-obligation estimates."
+          },
+          {
+            "question": "How long does driveway resurfacing take?",
+            "answer": "The duration depends on the size and condition of the driveway. Most resurfacing projects can be completed in 1-2 days."
+          }
+        ]
+      },
+      {
+        "slug": "paver-driveways",
+        "name": "Paver Driveways",
+        "shortDescription": "Elegant and durable paver driveways for a premium look.",
+        "description": "Paver driveways offer a sophisticated and durable alternative to traditional asphalt and concrete. Nerviani Paving Inc. specializes in the design and installation of paver driveways, creating stunning and functional surfaces that enhance the curb appeal of your home. We offer a wide selection of paver styles, colors, and patterns, allowing you to customize your driveway to match your personal taste and architectural style. Our process begins with a thorough site evaluation, considering factors such as soil type, drainage, and existing landscaping.\n\nWe then prepare the subgrade, ensuring a stable and level base for the paver installation. Our experienced paver installers carefully lay each paver, creating a precise and visually appealing pattern. We use high-quality polymeric sand to fill the joints between the pavers, locking them in place and preventing weed growth. Nerviani Paving Inc. is committed to delivering exceptional results that exceed your expectations.\n\nPaver driveways are not only beautiful but also incredibly durable and long-lasting. They can withstand heavy loads and resist cracking, making them an ideal choice for San Francisco's diverse climate. With Nerviani Paving Inc., you can be confident that your paver driveway will provide years of enjoyment and enhance the value of your property.",
+        "process": [
+          "Step 1: Design Consultation and Paver Selection",
+          "Step 2: Excavation and Subgrade Preparation",
+          "Step 3: Paver Installation",
+          "Step 4: Joint Sanding and Compaction"
+        ],
+        "benefits": [
+          "Elegant and Sophisticated Look",
+          "Durable and Long-Lasting",
+          "Wide Variety of Styles and Colors",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of paver driveways?",
+            "answer": "Paver driveways are durable, aesthetically pleasing, and offer a wide range of design options. They also require minimal maintenance."
+          },
+          {
+            "question": "How much do paver driveways cost?",
+            "answer": "The cost depends on the size of the driveway, the type of pavers used, and the complexity of the design. We provide free, no-obligation estimates."
+          },
+          {
+            "question": "How long do paver driveways last?",
+            "answer": "With proper installation and maintenance, paver driveways can last 25-50 years or more."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. is proud to offer our expert driveway paving services to the residents and businesses of San Francisco. We understand the unique challenges that San Francisco's diverse neighborhoods and varying terrains present, and we're equipped to handle any paving project, big or small. From the bustling streets of downtown to the quiet residential areas, we're committed to providing high-quality workmanship and lasting results. \n\nWe use only the best materials and employ proven techniques to ensure that your driveway is not only aesthetically pleasing but also durable and able to withstand the elements. Whether you need a new driveway installation, repairs, or resurfacing, Nerviani Paving Inc. is your trusted partner in San Francisco.",
+        "localContext": "San Francisco's unique architecture and vibrant culture demand a paving solution that is both functional and aesthetically pleasing, blending seamlessly with the city's character.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. extends its premier driveway paving services to Oakland, CA. We are dedicated to providing Oakland homeowners and businesses with top-notch paving solutions. From the historic Victorian homes in Old Oakland to the modern residences in Jack London Square, we understand the diverse architectural styles and needs of the community.\n\n Our team is skilled in handling a variety of paving projects, including new driveway installations, repairs, and resurfacing. We are committed to using high-quality materials and employing proven paving techniques to ensure that your driveway is both durable and aesthetically pleasing. Nerviani Paving Inc. is your reliable partner for all your paving needs in Oakland.",
+        "localContext": "Oakland's blend of urban and suburban environments requires paving solutions that are both durable and visually appealing, complementing the city's diverse landscape.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. is pleased to serve the community of Berkeley, CA with our professional driveway paving services. Whether you are near the UC Berkeley campus or in the residential areas of North Berkeley, we are committed to providing high-quality workmanship and exceptional customer service.\n\nWe offer a comprehensive range of paving services, including new driveway installations, repairs, and resurfacing. Our team uses only the finest materials and employs proven paving techniques to ensure that your driveway is both beautiful and long-lasting. Nerviani Paving Inc. is your trusted partner for all your paving needs in Berkeley.",
+        "localContext": "Berkeley's focus on sustainability and community requires paving solutions that are environmentally conscious and aesthetically pleasing, fitting in with the city's unique character.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. proudly serves Daly City, CA, offering expert driveway paving services to homeowners and businesses alike. We understand the unique needs of Daly City residents, from the coastal areas to the more inland neighborhoods, and we're committed to delivering exceptional results.\n\nOur team is skilled in handling a variety of paving projects, including new driveway installations, repairs, and resurfacing. We use only the best materials and employ proven paving techniques to ensure that your driveway is both durable and aesthetically pleasing. Nerviani Paving Inc. is your trusted partner for all your paving needs in Daly City.",
+        "localContext": "Daly City's coastal climate and diverse community require paving solutions that are both durable and aesthetically pleasing, complementing the city's unique landscape.",
+        "nearbyAreas": [
+          "San Francisco",
+          "South San Francisco",
+          "Pacifica"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. is dedicated to providing top-quality driveway paving services to the residents and businesses of South San Francisco, CA. We understand the diverse needs of the community, from the industrial areas to the residential neighborhoods, and we're committed to delivering exceptional results.\n\nWe offer a comprehensive range of paving services, including new driveway installations, repairs, and resurfacing. Our team uses only the finest materials and employs proven paving techniques to ensure that your driveway is both beautiful and long-lasting. Nerviani Paving Inc. is your trusted partner for all your paving needs in South San Francisco.",
+        "localContext": "South San Francisco's mix of industrial and residential areas requires paving solutions that are both durable and aesthetically pleasing, fitting in with the city's diverse character.",
+        "nearbyAreas": [
+          "Daly City",
+          "San Bruno",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. is pleased to offer our professional driveway paving services to the residents and businesses of San Bruno, CA. We are dedicated to providing high-quality workmanship and exceptional customer service.\n\nOur team is skilled in handling a variety of paving projects, including new driveway installations, repairs, and resurfacing. We use only the best materials and employ proven paving techniques to ensure that your driveway is both durable and aesthetically pleasing. Nerviani Paving Inc. is your trusted partner for all your paving needs in San Bruno.",
+        "localContext": "San Bruno's suburban environment requires paving solutions that are both durable and aesthetically pleasing, complementing the city's residential landscape.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Millbrae",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Pacifica",
+        "slug": "pacifica-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. proudly serves Pacifica, CA, offering expert driveway paving services to homeowners and businesses alike. We understand the unique needs of Pacifica residents, with its close proximity to the coast, and we're committed to delivering exceptional results.\n\nOur team is skilled in handling a variety of paving projects, including new driveway installations, repairs, and resurfacing. We use only the best materials and employ proven paving techniques to ensure that your driveway is both durable and aesthetically pleasing. Nerviani Paving Inc. is your trusted partner for all your paving needs in Pacifica.",
+        "localContext": "Pacifica's coastal climate and community require paving solutions that are durable and aesthetically pleasing, complementing the city's scenic beauty.",
+        "nearbyAreas": [
+          "Daly City",
+          "Half Moon Bay",
+          "San Bruno"
+        ]
+      },
+      {
+        "city": "Alameda",
+        "slug": "alameda-ca",
+        "state": "CA",
+        "content": "Nerviani Paving Inc. extends its premier driveway paving services to Alameda, CA. We're dedicated to providing Alameda homeowners and businesses with top-notch paving solutions. From the historic Victorian homes to the modern residences, we understand the diverse architectural styles and needs of the community.\n\nOur team is skilled in handling a variety of paving projects, including new driveway installations, repairs, and resurfacing. We are committed to using high-quality materials and employing proven paving techniques to ensure that your driveway is both durable and aesthetically pleasing. Nerviani Paving Inc. is your reliable partner for all your paving needs in Alameda.",
+        "localContext": "Alameda's unique island environment and historic architecture require paving solutions that are both durable and aesthetically pleasing, complementing the city's charm.",
+        "nearbyAreas": [
+          "Oakland",
+          "San Leandro",
+          "San Francisco"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Nerviani Paving Inc. did an amazing job on our new asphalt driveway. The crew was professional, efficient, and the finished product looks fantastic. The price was fair, and they communicated with us every step of the way. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "We had some serious cracks and potholes in our driveway, and Nerviani Paving Inc. came to the rescue. They patched everything up quickly and the driveway looks so much better. Good value for the price.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Concrete Driveway Paving",
+        "text": "We love our new concrete driveway! Nerviani Paving Inc. helped us design a beautiful and functional driveway that perfectly complements our home. The team was professional and courteous, and the workmanship is outstanding.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Driveway Sealcoating",
+        "text": "Nerviani Paving Inc. sealcoated our driveway and it looks brand new! They were quick, efficient, and the price was very reasonable. Great communication throughout the process.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Paver Driveways",
+        "text": "We had Nerviani Paving Inc. install a paver driveway and it's absolutely stunning. The quality of the work is excellent, and the pavers look beautiful. It was a bit more expensive than asphalt, but definitely worth the investment.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "The team at Nerviani Paving Inc. were fantastic! They were punctual, professional, and did an excellent job installing my new asphalt driveway. I would highly recommend them to anyone in the San Francisco area.",
+        "date": "2025-04-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nerviani Paving Inc. | San Francisco Driveways",
+        "description": "Expert driveway paving services in San Francisco. Asphalt, concrete, pavers, repairs & more. Free estimates. Call +14154542662"
+      },
+      "about": {
+        "title": "About Nerviani Paving Inc. | San Francisco CA",
+        "description": "Learn about Nerviani Paving Inc.'s history, values, and commitment to quality driveway paving in San Francisco and surrounding areas."
+      },
+      "services": {
+        "title": "Driveway Paving Services | Nerviani Paving Inc.",
+        "description": "Comprehensive driveway paving services in San Francisco. Asphalt, concrete, pavers, repairs, sealcoating, and resurfacing."
+      },
+      "contact": {
+        "title": "Contact Nerviani Paving Inc. | San Francisco CA",
+        "description": "Contact Nerviani Paving Inc. for a free driveway paving estimate. Call +14154542662 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Nerviani Paving Inc. Reviews | San Francisco CA",
+        "description": "Read reviews from satisfied Nerviani Paving Inc. customers in San Francisco. See why we're the trusted choice for driveway paving."
+      },
+      "service-areas": {
+        "title": "Driveway Paving Service Areas | Nerviani Paving Inc.",
+        "description": "Nerviani Paving Inc. provides driveway paving services in San Francisco and surrounding areas. Find a location near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "850+",
+      "satisfaction": "98%",
+      "teamSize": "22+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "driveway-repair": "/images/service-driveway-repair.webp",
+      "driveway-sealcoating": "/images/service-driveway-sealcoating.webp",
+      "driveway-resurfacing": "/images/service-driveway-resurfacing.webp",
+      "paver-driveways": "/images/service-paver-driveways.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair": {
+        "src": "/images/service-driveway-repair.webp",
+        "srcset": "/images/service-driveway-repair-400w.webp 400w, /images/service-driveway-repair-800w.webp 800w, /images/service-driveway-repair-1200w.webp 1200w, /images/service-driveway-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-sealcoating": {
+        "src": "/images/service-driveway-sealcoating.webp",
+        "srcset": "/images/service-driveway-sealcoating-400w.webp 400w, /images/service-driveway-sealcoating-800w.webp 800w, /images/service-driveway-sealcoating-1200w.webp 1200w, /images/service-driveway-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-resurfacing": {
+        "src": "/images/service-driveway-resurfacing.webp",
+        "srcset": "/images/service-driveway-resurfacing-400w.webp 400w, /images/service-driveway-resurfacing-800w.webp 800w, /images/service-driveway-resurfacing-1200w.webp 1200w, /images/service-driveway-resurfacing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-driveways": {
+        "src": "/images/service-paver-driveways.webp",
+        "srcset": "/images/service-paver-driveways-400w.webp 400w, /images/service-paver-driveways-800w.webp 800w, /images/service-paver-driveways-1200w.webp 1200w, /images/service-paver-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
